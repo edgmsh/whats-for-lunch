@@ -24,7 +24,7 @@ const whatToDoForLunch = function(hungry, availableTime) {
     } else if (availableTime > 30) {
       console.log("Reminder: this is an intense program after all and you should probably reconsider.");
     }
-  };
+  }
 };
 
 /*
